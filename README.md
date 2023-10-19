@@ -12,8 +12,8 @@ Link do desafio: https://efficient-sloth-d85.notion.site/Desafio-01-2d48608f4764
 Em seu terminal:
 
 ```bash
-$ git clone git@github.com:raulneto90/ignite-desafio-01.git
-$ cd ignite-desafio-01
+$ git clone git@github.com:raulneto90/ignite-nodejs-desafio-01.git
+$ cd ignite-nodejs-desafio-01
 
 # Install dependencies
 $ npm install
@@ -34,8 +34,8 @@ Link of challenge: https://efficient-sloth-d85.notion.site/Desafio-01-2d48608f47
 Em seu terminal:
 
 ```bash
-$ git clone git@github.com:raulneto90/ignite-desafio-01.git
-$ cd ignite-desafio-01
+$ git clone git@github.com:raulneto90/ignite-nodejs-desafio-01.git
+$ cd ignite-nodejs-desafio-01
 
 # Install dependencies
 $ npm install
